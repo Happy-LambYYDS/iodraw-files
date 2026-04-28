@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vGVTT32F4D0tghJY6oMW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vGVTT32F4D0tghJY6oMW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vGVTT32F4D0tghJY6oMW-1" value="[迷你世界]Reshade安装教程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry y="420" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
