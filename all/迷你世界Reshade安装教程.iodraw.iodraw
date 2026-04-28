@@ -12,7 +12,7 @@
         <mxCell id="vGVTT32F4D0tghJY6oMW-1" value="[迷你世界]Reshade安装教程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vGVTT32F4D0tghJY6oMW-3" value="先要下载迷你世界Reshade安装工具" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="vGVTT32F4D0tghJY6oMW-3" value="先要下载迷你世界Reshade安装工具" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
